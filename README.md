@@ -1,4 +1,3 @@
 #test File
-
 new text
-fix2 changes
+Some very gread text
